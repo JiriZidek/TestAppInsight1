@@ -1,2 +1,2 @@
-# estAppInsight1
+# TestAppInsight1
 Test konzolovky s AppInsights
